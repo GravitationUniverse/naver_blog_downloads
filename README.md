@@ -1,10 +1,10 @@
-2025-02-02 19:31
+2025-02-09 22:10
 
-RTE(Redmine To Excel)
+REC(Redmine Excel Converter)
 
 -- 다운로드
 
-https://drive.google.com/file/d/1Rj7QO7EIN6UPWfFI0k27VbQ5_i69NH3V/view?usp=drive_link
+https://drive.google.com/file/d/1z7E4rCrKbFls9VKavKh1qWSA1jumap-O/view?usp=drive_link
 
 -- 프로그램 사용 방법
 
